@@ -1,6 +1,5 @@
 import PointSignal from "./PointSignal";
 
-console.log('PointSignal Block');
 const pointSignal = new PointSignal(0, 0);
 
 console.log(pointSignal.x());

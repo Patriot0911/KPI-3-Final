@@ -1,7 +1,6 @@
 import { Subject, takeUntil } from 'rxjs';
 import ReactivePointRx from './ReactivePointRx';
 
-console.log('ReactivePointRx Block');
 const rxPoint = new ReactivePointRx(0, 0);
 
 console.clear();

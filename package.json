@@ -7,7 +7,6 @@
   "type": "module",
   "main": "index.ts",
   "scripts": {
-    "start": "npx tsx .",
     "start:rxjs": "npx tsx ./rxjs",
     "start:ngrx": "npx tsx ./ngrx"
   },
